@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS_studio\\lab4Docker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6FA2C0-7B09-4AD7-B3A5-010EE2CC70F7}|ConsoleApp2\\ConsoleApp2.csproj|d:\\vs_studio\\lab4docker\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6FA2C0-7B09-4AD7-B3A5-010EE2CC70F7}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED1DB43-C5A2-4F86-9438-B916A2172614}|lab4Docker\\lab4Docker.csproj|D:\\VS_studio\\lab4Docker\\lab4docker\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED1DB43-C5A2-4F86-9438-B916A2172614}|lab4Docker\\lab4Docker.csproj|solutionrelative:lab4docker\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED1DB43-C5A2-4F86-9438-B916A2172614}|lab4Docker\\lab4Docker.csproj|D:\\VS_studio\\lab4Docker\\lab4docker\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED1DB43-C5A2-4F86-9438-B916A2172614}|lab4Docker\\lab4Docker.csproj|solutionrelative:lab4docker\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED1DB43-C5A2-4F86-9438-B916A2172614}|lab4Docker\\lab4Docker.csproj|D:\\VS_studio\\lab4Docker\\lab4docker\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED1DB43-C5A2-4F86-9438-B916A2172614}|lab4Docker\\lab4Docker.csproj|solutionrelative:lab4docker\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED1DB43-C5A2-4F86-9438-B916A2172614}|lab4Docker\\lab4Docker.csproj|D:\\VS_studio\\lab4Docker\\lab4docker\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED1DB43-C5A2-4F86-9438-B916A2172614}|lab4Docker\\lab4Docker.csproj|solutionrelative:lab4docker\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS_studio\\lab4Docker\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\VS_studio\\lab4Docker\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:08:03.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "D:\\VS_studio\\lab4Docker\\lab4Docker\\OrderManager.cs",
+              "RelativeDocumentMoniker": "lab4Docker\\OrderManager.cs",
+              "ToolTip": "D:\\VS_studio\\lab4Docker\\lab4Docker\\OrderManager.cs",
+              "RelativeToolTip": "lab4Docker\\OrderManager.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T23:15:43.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\VS_studio\\lab4Docker\\lab4Docker\\Order.cs",
+              "RelativeDocumentMoniker": "lab4Docker\\Order.cs",
+              "ToolTip": "D:\\VS_studio\\lab4Docker\\lab4Docker\\Order.cs",
+              "RelativeToolTip": "lab4Docker\\Order.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T23:14:58.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "D:\\VS_studio\\lab4Docker\\lab4Docker\\Dish.cs",
+              "RelativeDocumentMoniker": "lab4Docker\\Dish.cs",
+              "ToolTip": "D:\\VS_studio\\lab4Docker\\lab4Docker\\Dish.cs",
+              "RelativeToolTip": "lab4Docker\\Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T23:13:22.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\VS_studio\\lab4Docker\\lab4Docker\\Menu.cs",
+              "RelativeDocumentMoniker": "lab4Docker\\Menu.cs",
+              "ToolTip": "D:\\VS_studio\\lab4Docker\\lab4Docker\\Menu.cs",
+              "RelativeToolTip": "lab4Docker\\Menu.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvyIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T23:14:45.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAKABAAAAAAAAAAAcwK4BAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-31T07:04:59.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

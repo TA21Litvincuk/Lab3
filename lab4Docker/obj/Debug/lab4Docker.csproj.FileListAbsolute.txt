@@ -1,0 +1,6 @@
+D:\VS_studio\lab4Docker\lab4Docker\bin\Debug\lab4Docker.dll
+D:\VS_studio\lab4Docker\lab4Docker\bin\Debug\lab4Docker.pdb
+D:\VS_studio\lab4Docker\lab4Docker\obj\Debug\lab4Docker.csproj.AssemblyReference.cache
+D:\VS_studio\lab4Docker\lab4Docker\obj\Debug\lab4Docker.csproj.CoreCompileInputs.cache
+D:\VS_studio\lab4Docker\lab4Docker\obj\Debug\lab4Docker.dll
+D:\VS_studio\lab4Docker\lab4Docker\obj\Debug\lab4Docker.pdb

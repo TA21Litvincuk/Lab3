@@ -1,0 +1,8 @@
+D:\VS_studio\lab4Docker\bin\Debug\ConsoleApp1.exe
+D:\VS_studio\lab4Docker\bin\Debug\lab4Docker.dll
+D:\VS_studio\lab4Docker\bin\Debug\ConsoleApp1.pdb
+D:\VS_studio\lab4Docker\bin\Debug\ConsoleApp1.exe.config
+D:\VS_studio\lab4Docker\bin\Debug\lab4Docker.pdb
+D:\VS_studio\lab4Docker\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\VS_studio\lab4Docker\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\VS_studio\lab4Docker\obj\Debug\docker-c.35A3FFBA.Up2Date

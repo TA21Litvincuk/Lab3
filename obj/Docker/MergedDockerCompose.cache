@@ -1,0 +1,12 @@
+name: dockercompose17924818246069828050
+services:
+  consoleapp1:
+    build:
+      context: D:\VS_studio\lab4Docker\ConsoleApp1
+      dockerfile: Dockerfile
+    image: consoleapp1
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose17924818246069828050_default

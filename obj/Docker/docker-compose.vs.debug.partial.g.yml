@@ -1,0 +1,19 @@
+services:
+  consoleapp1:
+    image: consoleapp1:dev
+    container_name: "ConsoleApp1"
+    build:
+      args:
+        LAUNCHING_FROM_VS: true
+        BUILD_CONFIGURATION: Debug
+        source: obj/Docker/empty/
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "ConsoleApp1"
+    volumes:
+      - D:\VS_studio\lab4Docker\ConsoleApp1:C:\app
+      - C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Remote Debugger:C:\remote_debugger:ro
+    entrypoint: cmd /c "set DISABLE_PERFORMANCE_DEBUGGER=1 & C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646"
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "C:\\app\\bin\\Debug\\ConsoleApp1.exe"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
